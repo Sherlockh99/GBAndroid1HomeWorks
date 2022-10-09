@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Home works</string>
+    <string name="helloWorldAgain">Hello World Again!</string>
+    <string name="text_press_me">Press me!</string>
+    <string name="text_second_activity">Second activity</string>
+    <string name="title_enter_text">Enter text:</string>
+    <string name="title_enter_person_name">Enter person name:</string>
+    <string name="title_enter_phone">Enter phone:</string>
+    <string name="title_enter_number">Enter number:</string>
+    <string name="title_enter_password">Enter password:</string>
+    <string name="title_enter_e_mail_address">Enter e-mail address:</string>
 </resources>
