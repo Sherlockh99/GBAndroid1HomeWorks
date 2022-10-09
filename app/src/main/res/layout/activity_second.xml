@@ -13,7 +13,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="Enter text:"
+            android:text="@string/title_enter_text"
             android:textSize="24sp"
             android:ems="8"/>
 
@@ -33,7 +33,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="Enter person name:"
+            android:text="@string/title_enter_person_name"
             android:textSize="24sp"
             android:ems="8"/>
 
@@ -51,7 +51,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="Enter phone:"
+            android:text="@string/title_enter_phone"
             android:textSize="24sp"
             android:ems="8"/>
 
@@ -68,7 +68,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="Enter number:"
+            android:text="@string/title_enter_number"
             android:textSize="24sp"
             android:ems="8"/>
 
@@ -85,7 +85,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="Enter password:"
+            android:text="@string/title_enter_password"
             android:textSize="24sp"
             android:ems="8"/>
 
@@ -104,7 +104,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="Enter e-mail address:"
+            android:text="@string/title_enter_e_mail_address"
             android:textSize="24sp"/>
 
         <EditText
