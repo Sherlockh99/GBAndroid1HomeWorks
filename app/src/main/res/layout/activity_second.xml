@@ -14,7 +14,8 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:text="Enter text:"
-            android:textSize="24sp"/>
+            android:textSize="24sp"
+            android:ems="8"/>
 
         <EditText
             android:layout_width="match_parent"
@@ -33,7 +34,8 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:text="Enter person name:"
-            android:textSize="24sp"/>
+            android:textSize="24sp"
+            android:ems="8"/>
 
         <EditText
             android:layout_width="match_parent"
@@ -50,7 +52,8 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:text="Enter phone:"
-            android:textSize="24sp"/>
+            android:textSize="24sp"
+            android:ems="8"/>
 
         <EditText
             android:layout_width="match_parent"
@@ -66,7 +69,8 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:text="Enter number:"
-            android:textSize="24sp"/>
+            android:textSize="24sp"
+            android:ems="8"/>
 
         <EditText
             android:layout_width="match_parent"
@@ -82,7 +86,8 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:text="Enter password:"
-            android:textSize="24sp"/>
+            android:textSize="24sp"
+            android:ems="8"/>
 
         <EditText
             android:layout_width="match_parent"
@@ -93,7 +98,8 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:ems="8">
 
         <TextView
             android:layout_width="wrap_content"
