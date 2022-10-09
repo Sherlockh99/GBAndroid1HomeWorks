@@ -26,7 +26,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Press me!"/>
+        android:text="@string/text_press_me"/>
 
     <Switch
         android:layout_width="match_parent"
@@ -41,4 +41,12 @@
     <ToggleButton
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/button_second_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_second_activity"
+        android:onClick="secondActivity" />
+
 </LinearLayout>
